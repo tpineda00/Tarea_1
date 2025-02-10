@@ -19,7 +19,8 @@ const productos = [
         { id: 1, nombre: 'manzana', stock: 5 },   
         { id: 2, nombre: 'pera', stock: 3 },   
         { id: 3, nombre: 'uva', stock: 10 },    
-        { id: 4, nombre: 'sandia', stock: 15 }   ];
+        
+    ];
 
 console.log(ActualizarStock(productos, 2, 10));         
 // [{ id    : 1, nombre: 'manzana', stock: 5 }, { id: 
