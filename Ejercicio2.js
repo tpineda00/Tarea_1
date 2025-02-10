@@ -22,5 +22,4 @@ const productos = [
         
     ];
 
-console.log(ActualizarStock(productos, 2, 10));         
-// [{ id    : 1, nombre: 'manzana', stock: 5 }, { id: 
+console.log(ActualizarStock(productos, 2, 10));  
